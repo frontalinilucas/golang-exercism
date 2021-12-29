@@ -7,6 +7,6 @@ Exercism es una plataforma de codificación gratuita, de código abierto y en l�
 
 ### Avance
 
-Si quieres ver mi avance en la plataforma, te invito a ingresar a mi [perfil público](https://exercism.org/profiles/frontalinilucas) dentro de la plataforma.
+Si quieres ver mi avance en la plataforma, te invito a ingresar a mi [perfil público](https://exercism.org/profiles/frontalinilucas) dentro de la misma.
 
 ![avance](https://github.com/frontalinilucas/golang-exercism/blob/main/progress.png?raw=true)
